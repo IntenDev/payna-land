@@ -26,16 +26,7 @@ export default {
 </script>
 
 <style scoped>
-.container {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  width: 1272px;
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
 
-}
 .manageText {
   display: flex;
   flex-wrap: wrap;

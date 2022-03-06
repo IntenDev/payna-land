@@ -1,5 +1,5 @@
 <template>
-  <div class="brand">
+  <div class="brand mb100-block">
     <span class="fl-block">
       <p>Trusted by Global Companies</p>
     </span>
