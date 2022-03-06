@@ -1,0 +1,41 @@
+/*
+* Ilya Kosterin, 2022
+* www.in10.top
+*
+ */
+/*
+ <-- Fonts -->
+ */
+@font-face {
+  font-family: Poppins;
+  src: url('/fonts/Poppins-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: PoppinsB;
+  src: url('/fonts/Poppins-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+}
+
+/*
+<-- Reset -->
+ */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.main {
+  position: relative;
+  width: 1512px;
+  height: 2050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-block {
+  float: left;
+}
